@@ -1,0 +1,11 @@
+C:\Users\yarde\source\repos\SnameGame\SnameGame\obj\Debug\net6.0\SnameGame.csproj.AssemblyReference.cache
+C:\Users\yarde\source\repos\SnameGame\SnameGame\obj\Debug\net6.0\SnameGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarde\source\repos\SnameGame\SnameGame\obj\Debug\net6.0\SnameGame.AssemblyInfoInputs.cache
+C:\Users\yarde\source\repos\SnameGame\SnameGame\obj\Debug\net6.0\SnameGame.AssemblyInfo.cs
+C:\Users\yarde\source\repos\SnameGame\SnameGame\obj\Debug\net6.0\SnameGame.csproj.CoreCompileInputs.cache
+C:\Users\yarde\Desktop\repos\SnameGame\SnameGame\obj\Debug\net6.0\SnameGame.csproj.AssemblyReference.cache
+C:\Users\yarde\Desktop\repos\SnameGame\SnameGame\obj\Debug\net6.0\SnameGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarde\Desktop\repos\SnameGame\SnameGame\obj\Debug\net6.0\SnameGame.AssemblyInfoInputs.cache
+C:\Users\yarde\Desktop\repos\SnameGame\SnameGame\obj\Debug\net6.0\SnameGame.AssemblyInfo.cs
+C:\Users\yarde\Desktop\repos\SnameGame\SnameGame\obj\Debug\net6.0\SnameGame.csproj.CoreCompileInputs.cache
+C:\Users\yarde\Desktop\repos\SnameGame\SnameGame\obj\Debug\net6.0\SnameGame.csproj.ResolveComReference.cache
